@@ -4,7 +4,7 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -27,7 +27,7 @@ Clone da interface do banco digital Nubank
 
 
 
-## ℹ Como usar 
+## :information_source: Como usar
 
 Para clonar e rodar esse projeto, você precisará do [Git](https://git-scm.com) e do  [Node.js v14.16](https://nodejs.org) ou maior, você também precisará da CLI do [Expo](https://docs.expo.io). No projeto, foi utilizado também o [Yarn v1.22.5](https://yarnpkg.com). Na sua interface de linha de comandos, execute:
 
