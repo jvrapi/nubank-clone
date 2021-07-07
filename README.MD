@@ -3,21 +3,20 @@
 </h1>
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-	<a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
 <div align="center">
 	<img src=".github/demonstration.gif" alt="GamePlay Image 1" height="380" />
-
 </div>
 
 
-## :open_book: Sobre
+## 📖 Sobre
 Clone da interface do banco digital Nubank
 
-## :rocket: Tecnologias
+## 🚀 Tecnologias 
 - [Expo](https://docs.expo.io)
 
 - [Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/docs/)
@@ -27,7 +26,8 @@ Clone da interface do banco digital Nubank
 - [React Native QR Code](https://github.com/awesomejerry/react-native-qrcode-svg) 
 
 
-## :information_source: Como usar
+
+## ℹ Como usar 
 
 Para clonar e rodar esse projeto, você precisará do [Git](https://git-scm.com) e do  [Node.js v14.16](https://nodejs.org) ou maior, você também precisará da CLI do [Expo](https://docs.expo.io). No projeto, foi utilizado também o [Yarn v1.22.5](https://yarnpkg.com). Na sua interface de linha de comandos, execute:
 
@@ -46,7 +46,7 @@ $ expo start
 
 ```
 
-## :memo: Licença
+## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
